@@ -7,3 +7,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizf_matosc/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OLuizFernando&layout=donut&theme=dark&hide_border=true)](https://github.com/OLuizFernando/github-readme-stats)
+
+![OLuizFernando's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OLuizFernando&theme=dark&hide_border=true)
