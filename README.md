@@ -1,5 +1,5 @@
 ### Hello, World! 🌎
-#### I'm Luiz Fernando, coding and learning in Brazil. 🇧🇷
+#### I'm Luiz Fernando, coding and learning from Brazil. 🇧🇷
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluizfernando/)
