@@ -17,6 +17,7 @@
 <h3 align="center">🌐 Web Development</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
@@ -51,6 +52,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Pytest-009FE3?style=for-the-badge&logo=pytest&logoColor=white">
 </p>
 
 ###
@@ -87,6 +89,7 @@
   <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=linux&logoColor=white">
