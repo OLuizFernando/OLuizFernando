@@ -17,7 +17,7 @@
 
 <h3 align="center">🌐 Web Development</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi">
   <img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/shadcn-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white">
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white">
 </p>
 
 ###
@@ -60,12 +60,18 @@
 
 ###
 
-<h3 align="center">⚙ Version Control & DevOps</h3>
+<h3 align="center">⚙ DevOps & Infrastructure</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
   <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white">
+  <img src="https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/github%20pages-181717.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/amazon%20s3-D94F41.svg?style=for-the-badge&logo=amazons3&logoColor=white">
 </p>
 
 ###
@@ -96,8 +102,6 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
 </p>
 
 ###
@@ -106,14 +110,9 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/oluizfernando/" target="_blank">
-    Linkedin
-  </a>
-  <br>
-  <a href="mailto:luizfernandodematoscarvalho@gmail.com" target="_blank">
-    E-mail
-  </a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</p>
 
 ###
