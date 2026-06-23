@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white">
   <img src="https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/github%20pages-181717.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/amazon%20s3-D94F41.svg?style=for-the-badge&logo=amazons3&logoColor=white">
+  <img src="https://img.shields.io/badge/aws%20s3-FF9A00.svg?style=for-the-badge&logo=amazons3&logoColor=white">
 </p>
 
 ###
